@@ -6,10 +6,10 @@ export const metadata: Metadata = {
   description: 'Personal portfolio and professional journey of Rohith Ejjaparapu - AI/ML Engineer and Consultant.',
   icons: {
     icon: [
-      { url: '/favicon.svg', type: 'image/svg+xml' },
-      { url: '/favicon.ico', type: 'image/x-icon' },
+      { url: '/favicon.svg?v=2', type: 'image/svg+xml' },
+      { url: '/favicon.ico?v=2', type: 'image/x-icon' },
     ],
-    apple: '/favicon.ico',
+    apple: '/favicon.ico?v=2',
   },
 };
 
