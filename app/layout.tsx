@@ -4,6 +4,13 @@ import './globals.css';
 export const metadata: Metadata = {
   title: 'Rohith Ejjaparapu | Portfolio',
   description: 'Personal portfolio and professional journey of Rohith Ejjaparapu - AI/ML Engineer and Consultant.',
+  icons: {
+    icon: [
+      { url: '/favicon.svg', type: 'image/svg+xml' },
+      { url: '/favicon.ico', type: 'image/x-icon' },
+    ],
+    apple: '/favicon.ico',
+  },
 };
 
 export default function RootLayout({
