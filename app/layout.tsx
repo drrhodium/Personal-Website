@@ -7,6 +7,7 @@ export const metadata: Metadata = {
   icons: {
     icon: '🚀',
     apple: '🚀',
+    shortcut: '🚀',
   },
 };
 
