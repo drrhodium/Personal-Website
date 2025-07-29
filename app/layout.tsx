@@ -2,8 +2,8 @@ import type { Metadata } from 'next';
 import './globals.css';
 
 export const metadata: Metadata = {
-  title: 'Personal Canvas | Rohith Ejjaparapu',
-  description: 'My personal portfolio and professional journey.',
+  title: 'Rohith Ejjaparapu | Portfolio',
+  description: 'Personal portfolio and professional journey of Rohith Ejjaparapu - AI/ML Engineer and Consultant.',
 };
 
 export default function RootLayout({
