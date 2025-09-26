@@ -1,5 +1,5 @@
 import { Button } from '@/components/ui/button';
-import { Mail, Twitter, Linkedin } from 'lucide-react';
+import { Mail, Twitter, Linkedin, Instagram } from 'lucide-react';
 import Link from 'next/link';
 
 const WhatsAppIcon = (props: React.SVGProps<SVGSVGElement>) => (
@@ -52,6 +52,11 @@ export function ContactMe() {
               <Button variant="secondary" size="icon" asChild>
                 <Link href="https://www.linkedin.com/in/rohith-ejjaparapu-812b3089/" target="_blank" rel="noopener noreferrer" aria-label="LinkedIn">
                   <Linkedin className="h-5 w-5" />
+                </Link>
+              </Button>
+              <Button variant="secondary" size="icon" asChild>
+                <Link href="https://www.instagram.com/brofessor_rhodium/" target="_blank" rel="noopener noreferrer" aria-label="Instagram">
+                  <Instagram className="h-5 w-5" />
                 </Link>
               </Button>
             </div>
