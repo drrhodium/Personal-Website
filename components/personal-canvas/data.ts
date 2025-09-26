@@ -132,8 +132,8 @@ export const projectPortfolioData = {
 export const fitnessHighlightsData = {
   journey: {
     title: "My Fitness Journey",
-    description: "I was that skinny kid who could eat an entire Domino’s pizza, wash it down with a milkshake, and still look like I was running on 3 almonds a day. Fast forward a few years — throw in career stress, international studies, no meal timing, and suddenly my superpower vanished. I was binge-eating everything in sight… and this time, it was showing up.\n\nWhen I got married in 2024, some wedding rituals expected me to go topless (thanks, tradition). And let’s just say — I didn’t love what I saw in the mirror. It wasn’t just about vanity. It was about control. That moment flipped a switch.\n\nSo I got to work. Tracked my food, hit the gym, walked till my knees sent passive-aggressive signals, and slowly started transforming — not just my body, but also my mindset. The abs are on their way (I swear), and the transformation video will drop soon. Stay tuned.",
-    videoId: "dQw4w9WgXcQ" // Example YouTube Video ID
+    description: "I was that skinny kid who could eat an entire Domino's pizza, wash it down with a milkshake, and still look like I was running on 3 almonds a day. Fast forward a few years — throw in career stress, international studies, no meal timing, and suddenly my superpower vanished. I was binge-eating everything in sight… and this time, it was showing up.\n\nWhen I got married in 2024, some wedding rituals expected me to go topless (thanks, tradition). And let's just say — I didn't love what I saw in the mirror. It wasn't just about vanity. It was about control. That moment flipped a switch.\n\nSo I got to work. Tracked my food, hit the gym, walked till my knees sent passive-aggressive signals, and slowly started transforming — not just my body, but also my mindset.",
+    videoId: "PR9-Q1K3dGI" // Updated YouTube Video ID
   },
   stats: [],
   articles: [],
